@@ -1,0 +1,14 @@
+{"ci": {
+  "version": "4.1.0-SNAPSHOT",
+  "lmc": false,
+  "iam": false,
+  "endpoint": "",
+  "cicd": ""
+},
+"e2e": {
+  "version": "4.2.0",
+  "lmc": true,
+  "iam": true,
+  "endpoint": "",
+  "cicd": ""
+}}
